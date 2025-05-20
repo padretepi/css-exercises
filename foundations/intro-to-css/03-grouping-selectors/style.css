@@ -1,0 +1,19 @@
+.fontsize{
+    font-size: 28px;
+}
+
+.fontfam{
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.blackbg{
+    background-color: black;
+}
+
+.whitetxt{
+    color:white;
+}
+
+.yellowbg{
+    background-color: yellow;
+}
